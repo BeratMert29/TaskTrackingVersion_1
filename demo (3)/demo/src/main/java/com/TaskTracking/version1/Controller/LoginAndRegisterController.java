@@ -35,4 +35,5 @@ public class LoginAndRegisterController {
         }
         return "Register failed";
     }
+
 }
