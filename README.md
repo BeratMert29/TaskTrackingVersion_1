@@ -1,2 +1,2 @@
 # TaskTrackingVersion_1
- This is the project I am currently working on. It is a task tracking system that adds projects, tasks, sprints , sub tasks and users and manages their relations in database
+ This is the project I worked on in my internship. I aim to update and improve this project more in the future.
